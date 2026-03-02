@@ -1,0 +1,269 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('blog');
+	const categories = [...new Set(posts.map(post => post.id.split('/')[0]))];
+
+	return categories.map(category => ({
+		params: { category },
+		props: { category }
+	}));
+}
+
+const { category } = Astro.props;
+const posts = (await getCollection('blog'))
+	.filter(post => post.id.startsWith(category + '/'))
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const categoryNames = {
+	'mode-feminine-tunisie': 'Mode Féminine Tunisie',
+	'style-et-conseils-vestimentaires': 'Style & Conseils Vestimentaires',
+	'guide-et-conseils-pratiques': 'Guides & Conseils Pratiques',
+	'tendances-mode-saison': 'Tendances Mode & Saison'
+};
+
+const categoryDescriptions = {
+	'mode-feminine-tunisie': 'Découvrez l\'univers de la mode féminine tunisienne, entre tradition et modernité.',
+	'style-et-conseils-vestimentaires': 'Conseils d\'expertes pour développer votre style personnel et créer des looks parfaits.',
+	'guide-et-conseils-pratiques': 'Guides pratiques pour prendre soin de vos vêtements et optimiser votre garde-robe.',
+	'tendances-mode-saison': 'Les dernières tendances mode et les must-have de chaque saison.'
+};
+
+const categoryTitle = categoryNames[category] || category;
+const categoryDescription = categoryDescriptions[category] || '';
+const pageTitle = `${categoryTitle} | ${SITE_TITLE}`;
+---
+
+<!doctype html>
+<html lang="fr">
+	<head>
+		<BaseHead title={pageTitle} description={categoryDescription} />
+		<style>
+			/* Hero de catégorie */
+			.category-hero {
+				background: var(--gradient-hero);
+				padding: 6rem 2rem 4rem;
+				margin-bottom: 4rem;
+				text-align: center;
+				border-radius: 0 0 2rem 2rem;
+			}
+
+			.category-hero h1 {
+				margin-bottom: 1.5rem;
+				color: var(--cognac-brown);
+			}
+
+			.category-hero p {
+				font-size: 1.25rem;
+				color: var(--text-secondary);
+				max-width: 800px;
+				margin: 0 auto;
+			}
+
+			.posts-count {
+				margin-top: 1rem;
+				font-size: 1rem;
+				color: var(--dusty-rose);
+				font-weight: 500;
+			}
+
+			/* Grille d'articles */
+			.posts-section {
+				padding: 0 2rem 4rem;
+			}
+
+			.posts-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+				gap: 2.5rem;
+				max-width: 1200px;
+				margin: 0 auto;
+			}
+
+			.post-card {
+				background: var(--warm-white);
+				border-radius: 1.5rem;
+				overflow: hidden;
+				box-shadow: var(--shadow-soft);
+				transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+				border: 1px solid rgba(139, 87, 42, 0.05);
+			}
+
+			.post-card:hover {
+				transform: translateY(-8px);
+				box-shadow: var(--shadow-strong);
+			}
+
+			.post-image {
+				aspect-ratio: 16/9;
+				overflow: hidden;
+				background: var(--soft-blue);
+			}
+
+			.post-image img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				border-radius: 0;
+				transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+			}
+
+			.post-card:hover .post-image img {
+				transform: scale(1.05);
+			}
+
+			.post-content {
+				padding: 2rem;
+			}
+
+			.post-meta {
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				margin-bottom: 1rem;
+				font-size: 0.875rem;
+				color: var(--text-secondary);
+			}
+
+			.post-title {
+				font-size: 1.4rem;
+				margin-bottom: 1rem;
+				color: var(--text-primary);
+				line-height: 1.3;
+				font-weight: 600;
+			}
+
+			.post-description {
+				color: var(--text-secondary);
+				line-height: 1.6;
+				margin-bottom: 1.5rem;
+			}
+
+			.post-link {
+				color: var(--dusty-rose);
+				font-weight: 500;
+				text-decoration: none;
+				display: inline-flex;
+				align-items: center;
+				gap: 0.5rem;
+				border: none !important;
+				transition: all 0.3s ease;
+			}
+
+			.post-link:hover {
+				color: var(--cognac-brown);
+				gap: 0.75rem;
+				border: none !important;
+			}
+
+			.post-link::after {
+				content: '→';
+				transition: transform 0.3s ease;
+			}
+
+			.post-link:hover::after {
+				transform: translateX(4px);
+			}
+
+			/* États vides */
+			.empty-state {
+				text-align: center;
+				padding: 4rem 2rem;
+				color: var(--text-secondary);
+			}
+
+			.empty-state h3 {
+				color: var(--cognac-brown);
+				margin-bottom: 1rem;
+			}
+
+			/* Responsive */
+			@media (max-width: 768px) {
+				.category-hero {
+					padding: 4rem 1rem 3rem;
+					margin-bottom: 3rem;
+				}
+
+				.posts-section {
+					padding: 0 1rem 3rem;
+				}
+
+				.posts-grid {
+					grid-template-columns: 1fr;
+					gap: 1.5rem;
+				}
+
+				.post-content {
+					padding: 1.5rem;
+				}
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+
+		<!-- Hero de catégorie -->
+		<section class="category-hero">
+			<div class="fade-in">
+				<h1>{categoryTitle}</h1>
+				<p>{categoryDescription}</p>
+				<div class="posts-count">
+					{posts.length} article{posts.length !== 1 ? 's' : ''}
+				</div>
+			</div>
+		</section>
+
+		<!-- Articles de la catégorie -->
+		<section class="posts-section">
+			{posts.length > 0 ? (
+				<div class="posts-grid">
+					{posts.map((post, index) => (
+						<article class="post-card slide-up" style={`animation-delay: ${index * 0.1}s`}>
+							<a href={`/${post.id}/`} style="text-decoration: none; color: inherit; border: none !important;">
+								{post.data.heroImage && (
+									<div class="post-image">
+										<Image
+											width={600}
+											height={400}
+											src={post.data.heroImage}
+											alt={post.data.title}
+										/>
+									</div>
+								)}
+
+								<div class="post-content">
+									<div class="post-meta">
+										<FormattedDate date={post.data.pubDate} />
+									</div>
+
+									<h3 class="post-title">{post.data.title}</h3>
+
+									{post.data.description && (
+										<p class="post-description">{post.data.description}</p>
+									)}
+
+									<span class="post-link">Lire l'article</span>
+								</div>
+							</a>
+						</article>
+					))}
+				</div>
+			) : (
+				<div class="empty-state">
+					<h3>Aucun article dans cette catégorie</h3>
+					<p>Les articles de cette catégorie seront bientôt disponibles.</p>
+				</div>
+			)}
+		</section>
+
+		<Footer />
+	</body>
+</html>

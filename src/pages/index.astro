@@ -1,49 +1,447 @@
 ---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			/* Hero Section */
+			.hero {
+				background: var(--gradient-hero);
+				padding: 4rem 2rem 6rem;
+				margin-bottom: 4rem;
+				text-align: center;
+				border-radius: 0 0 2rem 2rem;
+			}
+
+			.hero-content {
+				max-width: 800px;
+				margin: 0 auto;
+			}
+
+			.hero h1 {
+				margin-bottom: 1.5rem;
+				background: linear-gradient(135deg, var(--cognac-brown), var(--dusty-rose));
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+				background-clip: text;
+			}
+
+			.hero p {
+				font-size: 1.25rem;
+				color: var(--text-secondary);
+				margin-bottom: 0;
+				font-weight: 300;
+			}
+
+			/* Posts Grid */
+			.posts-section {
+				padding: 0 2rem 4rem;
+			}
+
+			.section-header {
+				text-align: center;
+				margin-bottom: 4rem;
+			}
+
+			.section-title {
+				font-size: 2.5rem;
+				margin-bottom: 1rem;
+				color: var(--cognac-brown);
+			}
+
+			.section-subtitle {
+				font-size: 1.125rem;
+				color: var(--text-secondary);
+				max-width: 600px;
+				margin: 0 auto;
+			}
+
+			.posts-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+				gap: 3rem;
+				max-width: 1200px;
+				margin: 0 auto;
+			}
+
+			.post-card {
+				background: var(--warm-white);
+				border-radius: 2rem;
+				overflow: hidden;
+				box-shadow: var(--shadow-soft);
+				transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+				border: 1px solid rgba(139, 87, 42, 0.05);
+			}
+
+			.post-card:hover {
+				transform: translateY(-8px);
+				box-shadow: var(--shadow-strong);
+			}
+
+			.post-card:first-child {
+				grid-column: 1 / -1;
+				position: relative;
+				display: flex;
+				flex-direction: column;
+				max-width: none;
+				min-height: 500px;
+			}
+
+			.post-card:first-child .post-image {
+				position: absolute;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				z-index: 1;
+			}
+
+			.post-card:first-child .post-image::after {
+				content: '';
+				position: absolute;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				background: linear-gradient(
+					135deg,
+					rgba(139, 87, 42, 0.8) 0%,
+					rgba(139, 87, 42, 0.6) 50%,
+					rgba(139, 87, 42, 0.4) 100%
+				);
+				z-index: 2;
+			}
+
+			.post-card:first-child .post-image img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				border-radius: 2rem;
+			}
+
+			.post-card:first-child .post-content {
+				position: relative;
+				z-index: 3;
+				padding: 3rem;
+				margin-top: auto;
+				background: linear-gradient(
+					to top,
+					rgba(0, 0, 0, 0.8) 0%,
+					rgba(0, 0, 0, 0.4) 60%,
+					transparent 100%
+				);
+				border-radius: 0 0 2rem 2rem;
+			}
+
+			.post-card:first-child .post-meta {
+				color: var(--warm-white);
+				opacity: 0.9;
+			}
+
+			.post-card:first-child .post-category {
+				background: var(--warm-white);
+				color: var(--cognac-brown);
+			}
+
+			.post-card:first-child .post-title {
+				font-size: 2.5rem;
+				margin-bottom: 1.5rem;
+				color: var(--warm-white);
+				text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+			}
+
+			.post-card:first-child .post-excerpt {
+				font-size: 1.25rem;
+				line-height: 1.7;
+				margin-bottom: 2rem;
+				color: var(--warm-white);
+				opacity: 0.95;
+			}
+
+			.post-card:first-child .post-link {
+				color: var(--warm-white);
+				background: var(--dusty-rose);
+				padding: 0.75rem 1.5rem;
+				border-radius: 2rem;
+				font-weight: 600;
+				display: inline-flex;
+				align-items: center;
+				gap: 0.5rem;
+				transition: all 0.3s ease;
+				width: fit-content;
+			}
+
+			.post-card:first-child .post-link:hover {
+				background: var(--cognac-brown);
+				transform: translateY(-2px);
+				color: var(--warm-white);
+				gap: 0.75rem;
+				box-shadow: var(--shadow-medium);
+			}
+
+			.post-image {
+				aspect-ratio: 16/10;
+				overflow: hidden;
+				background: var(--soft-blue);
+			}
+
+			.post-image img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				border-radius: 0;
+				transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+			}
+
+			.post-card:hover .post-image img {
+				transform: scale(1.05);
+			}
+
+			.post-content {
+				padding: 2rem;
+			}
+
+			.post-meta {
+				display: flex;
+				align-items: center;
+				gap: 1rem;
+				margin-bottom: 1rem;
+				font-size: 0.875rem;
+				color: var(--text-secondary);
+			}
+
+			.post-category {
+				background: var(--powder-blue);
+				color: var(--text-primary);
+				padding: 0.25rem 0.75rem;
+				border-radius: 1rem;
+				font-weight: 500;
+				font-size: 0.75rem;
+				text-transform: uppercase;
+				letter-spacing: 0.05em;
+			}
+
+			.post-title {
+				font-size: 1.5rem;
+				margin-bottom: 1rem;
+				color: var(--text-primary);
+				line-height: 1.3;
+				font-weight: 600;
+			}
+
+			.post-excerpt {
+				color: var(--text-secondary);
+				line-height: 1.6;
+				margin-bottom: 1.5rem;
+			}
+
+			.post-link {
+				color: var(--dusty-rose);
+				font-weight: 500;
+				text-decoration: none;
+				display: inline-flex;
+				align-items: center;
+				gap: 0.5rem;
+				border: none !important;
+				transition: all 0.3s ease;
+			}
+
+			.post-link:hover {
+				color: var(--cognac-brown);
+				gap: 0.75rem;
+				border: none !important;
+			}
+
+			.post-link::after {
+				content: '→';
+				transition: transform 0.3s ease;
+			}
+
+			.post-link:hover::after {
+				transform: translateX(4px);
+			}
+
+			/* Responsive Design */
+			@media (max-width: 1024px) {
+				.posts-grid {
+					grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+					gap: 2rem;
+				}
+
+				.post-card:first-child {
+					min-height: 400px;
+				}
+
+				.post-card:first-child .post-content {
+					padding: 2rem;
+				}
+
+				.post-card:first-child .post-title {
+					font-size: 2rem;
+				}
+
+				.post-card:first-child .post-excerpt {
+					font-size: 1.125rem;
+				}
+			}
+
+			@media (max-width: 768px) {
+				.hero {
+					padding: 3rem 1rem 4rem;
+					margin-bottom: 3rem;
+				}
+
+				.posts-section {
+					padding: 0 1rem 3rem;
+				}
+
+				.posts-grid {
+					grid-template-columns: 1fr;
+					gap: 1.5rem;
+				}
+
+				.section-title {
+					font-size: 2rem;
+				}
+
+				.post-card:first-child {
+					min-height: 350px;
+				}
+
+				.post-card:first-child .post-content {
+					padding: 1.5rem;
+				}
+
+				.post-card:first-child .post-title {
+					font-size: 1.75rem;
+				}
+
+				.post-card:first-child .post-excerpt {
+					font-size: 1rem;
+					margin-bottom: 1.5rem;
+				}
+
+				.post-content {
+					padding: 1.5rem;
+				}
+			}
+
+			@media (max-width: 480px) {
+				.hero {
+					padding: 2rem 1rem 3rem;
+				}
+
+				.hero p {
+					font-size: 1.125rem;
+				}
+
+				.posts-grid {
+					gap: 1rem;
+				}
+
+				.post-card:first-child {
+					min-height: 300px;
+				}
+
+				.post-card:first-child .post-content {
+					padding: 1rem;
+				}
+
+				.post-card:first-child .post-title {
+					font-size: 1.5rem;
+					margin-bottom: 1rem;
+				}
+
+				.post-card:first-child .post-excerpt {
+					font-size: 0.95rem;
+					margin-bottom: 1rem;
+				}
+
+				.post-card:first-child .post-link {
+					padding: 0.6rem 1.25rem;
+					font-size: 0.9rem;
+				}
+			}
+		</style>
 	</head>
 	<body>
 		<Header />
-		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
-		</main>
+
+		<!-- Hero Section -->
+		<section class="hero">
+			<div class="hero-content fade-in">
+				<h1>Votre Style, Votre Signature</h1>
+				<p>Découvrez les dernières tendances mode féminine et nos conseils d'expertes pour sublimer votre garde-robe avec élégance et sophistication.</p>
+			</div>
+		</section>
+
+		<!-- Posts Section -->
+		<section class="posts-section">
+			<div class="section-header">
+				<h2 class="section-title slide-up">Nos Articles</h2>
+				<p class="section-subtitle">Plongez dans l'univers de la mode féminine tunisienne avec nos guides style, tendances saisonnières et conseils pratiques.</p>
+			</div>
+
+			<div class="posts-grid">
+				{posts.map((post, index) => {
+					const category = post.id.split('/')[0];
+					const categoryNames = {
+						'mode-feminine-tunisie': 'Mode Féminine',
+						'style-et-conseils-vestimentaires': 'Style & Conseils',
+						'guide-et-conseils-pratiques': 'Guides Pratiques',
+						'tendances-mode-saison': 'Tendances'
+					};
+
+					return (
+						<article class="post-card slide-up" style={`animation-delay: ${index * 0.1}s`}>
+							<a href={`/${post.id}/`} style="text-decoration: none; color: inherit; border: none !important;">
+								{post.data.heroImage && (
+									<div class="post-image">
+										<Image
+											width={800}
+											height={500}
+											src={post.data.heroImage}
+											alt={post.data.title}
+										/>
+									</div>
+								)}
+
+								<div class="post-content">
+									<div class="post-meta">
+										<span class="post-category">{categoryNames[category] || 'Article'}</span>
+										<span class="post-date">
+											<FormattedDate date={post.data.pubDate} />
+										</span>
+									</div>
+
+									<h3 class="post-title">{post.data.title}</h3>
+
+									{post.data.description && (
+										<p class="post-excerpt">{post.data.description}</p>
+									)}
+
+									<span class="post-link">Lire l'article</span>
+								</div>
+							</a>
+						</article>
+					);
+				})}
+			</div>
+		</section>
+
 		<Footer />
 	</body>
 </html>
