@@ -75,17 +75,17 @@ Quand chaque pièce de votre dressing partage la même palette, le nombre de com
 
 Votre garde-robe capsule doit inclure des hauts qui traversent les saisons et les contextes. Parmi les incontournables : une chemise col claudine — pièce emblématique qui apporte une touche raffinée immédiatement — et un haut brodé à perles pour les occasions qui demandent un peu plus d'éclat.
 
-La [Chemise Col Claudine de Le Cintre Privé](https://lecintreprive.com/products/chemise-col-claudine) illustre parfaitement ce principe : une coupe nette, un col iconique, une élégance qui ne cherche pas à convaincre.
+La [Chemise Col Claudine de Le Cintre Privé](https://www.lecintreprive.com/products/chemise-col-claudine) illustre parfaitement ce principe : une coupe nette, un col iconique, une élégance qui ne cherche pas à convaincre.
 
 ### Les robes polyvalentes
 
-Une robe bien choisie vaut dix tenues. La robe trapèze ceinturée, par exemple, se porte aussi bien au bureau avec des escarpins qu'en sortie décontractée avec des sandales plates. La [Robe Trapèze Ceinturée](https://lecintreprive.com/products/robe-trapeze-ceinturee) est une pièce qui incarne cet équilibre entre structure et légèreté.
+Une robe bien choisie vaut dix tenues. La robe trapèze ceinturée, par exemple, se porte aussi bien au bureau avec des escarpins qu'en sortie décontractée avec des sandales plates. La [Robe Trapèze Ceinturée](https://www.lecintreprive.com/products/robe-trapeze-ceinturee) est une pièce qui incarne cet équilibre entre structure et légèreté.
 
 Pour les soirées et les occasions spéciales, une robe moulante avec ceinture apporte l'élégance requise sans tomber dans l'excès.
 
 ### Les pièces d'exception
 
-Certaines pièces méritent un investissement particulier parce qu'elles élèvent instantanément n'importe quelle tenue. Le [Manteau en Cachemire](https://lecintreprive.com/products/manteau-en-cachemire) en fait partie. Posé sur une tenue simple, il transforme tout. C'est le type de pièce que l'on garde dix ans — et qui prend de la valeur avec le temps.
+Certaines pièces méritent un investissement particulier parce qu'elles élèvent instantanément n'importe quelle tenue. Le [Manteau en Cachemire](https://www.lecintreprive.com/products/manteau-en-cachemire) en fait partie. Posé sur une tenue simple, il transforme tout. C'est le type de pièce que l'on garde dix ans — et qui prend de la valeur avec le temps.
 
 ---
 
@@ -97,7 +97,7 @@ Dans une garde-robe capsule, les accessoires ne sont pas des ajouts décoratifs.
 
 ### Choisir avec intention
 
-Privilégiez des accessoires de qualité en petit nombre. Un sac à bandoulière structuré en cuir, une montre sobre, un collier minimaliste à perles. L'[Ensemble de Colliers en Perles](https://lecintreprive.com/products/ensemble-de-colliers-en-perles) de Le Cintre Privé s'intègre naturellement dans cette logique : discret, élégant, et capable de rehausser aussi bien une tenue de travail qu'une robe du soir.
+Privilégiez des accessoires de qualité en petit nombre. Un sac à bandoulière structuré en cuir, une montre sobre, un collier minimaliste à perles. L'[Ensemble de Colliers en Perles](https://www.lecintreprive.com/products/ensemble-de-colliers-en-perles) de Le Cintre Privé s'intègre naturellement dans cette logique : discret, élégant, et capable de rehausser aussi bien une tenue de travail qu'une robe du soir.
 
 ---
 
@@ -138,4 +138,4 @@ Une élégance qui ne cherche pas à convaincre. Un dressing où chaque matin, s
 Commencez aujourd'hui. Une pièce à la fois.
 
 **Entrez dans l'univers Le Cintre Privé.**  
-[Découvrir la collection →](https://lecintreprive.com)
+[Découvrir la collection →](https://www.lecintreprive.com)

@@ -31,7 +31,7 @@ La chemise blanche est l'une des rares pièces vestimentaires véritablement uni
 
 Contrairement à ce qu'on pourrait croire, le blanc n'est pas une couleur neutre au sens passif du terme. C'est une couleur affirmée, qui demande une certaine assurance pour être portée. Elle attire la lumière sur le visage, apporte de la clarté à la silhouette et communique une impression de soin et de rigueur.
 
-Dans la philosophie Le Cintre Privé, la [Chemise Col Claudine](https://lecintreprive.com/products/chemise-col-claudine) représente l'aboutissement de cette idée : une chemise blanche qui ne cherche pas à en faire trop, mais dont chaque détail — le col, la coupe, le tombé — est pensé avec intention.
+Dans la philosophie Le Cintre Privé, la [Chemise Col Claudine](https://www.lecintreprive.com/products/chemise-col-claudine) représente l'aboutissement de cette idée : une chemise blanche qui ne cherche pas à en faire trop, mais dont chaque détail — le col, la coupe, le tombé — est pensé avec intention.
 
 ---
 
@@ -41,7 +41,7 @@ Dans la philosophie Le Cintre Privé, la [Chemise Col Claudine](https://lecintre
 
 La chemise blanche et la jupe à carreaux forment l'un des couples les plus iconiques de la mode féminine. L'une apporte la pureté, l'autre le caractère.
 
-Glissez le devant de la chemise dans la jupe en laissant l'arrière flotter légèrement — ce half-tuck moderne transforme une association classique en look contemporain. Ajoutez une ceinture fine pour définir la taille. La [Jupe à Carreaux à Bouton](https://lecintreprive.com/products/jupe-a-carreaux-a-bouton) se prête particulièrement à cet exercice : ses boutons apportent un détail intéressant qui dialogue avec la simplicité de la chemise.
+Glissez le devant de la chemise dans la jupe en laissant l'arrière flotter légèrement — ce half-tuck moderne transforme une association classique en look contemporain. Ajoutez une ceinture fine pour définir la taille. La [Jupe à Carreaux à Bouton](https://www.lecintreprive.com/products/jupe-a-carreaux-a-bouton) se prête particulièrement à cet exercice : ses boutons apportent un détail intéressant qui dialogue avec la simplicité de la chemise.
 
 ### 2. En Version Bureau : Profesionnelle et Affirmée
 
@@ -77,7 +77,7 @@ Choisissez une chemise suffisamment ample pour que l'effet soit intentionnel et 
 
 La chemise blanche dans sa simplicité est le fond idéal pour laisser vos accessoires s'exprimer. C'est ici qu'un collier à perles, des boucles d'oreilles graphiques ou un sac à bandoulière coloré peuvent prendre toute leur dimension.
 
-Le [Haut Brodé à Perles](https://lecintreprive.com/products/haut-brode-a-perles) va encore plus loin dans cette idée : la broderie intégrée transforme la pièce elle-même en accessoire. Plus besoin d'ajouter — la pièce se suffit.
+Le [Haut Brodé à Perles](https://www.lecintreprive.com/products/haut-brode-a-perles) va encore plus loin dans cette idée : la broderie intégrée transforme la pièce elle-même en accessoire. Plus besoin d'ajouter — la pièce se suffit.
 
 ---
 
@@ -136,4 +136,4 @@ La chemise blanche n'est pas une pièce ordinaire. C'est une déclaration de sty
 Une élégance qui ne cherche pas à convaincre. C'est peut-être la définition la plus juste de la chemise blanche bien portée.
 
 **Entrez dans l'univers Le Cintre Privé.**  
-[Découvrir la collection →](https://lecintreprive.com)
+[Découvrir la collection →](https://www.lecintreprive.com)

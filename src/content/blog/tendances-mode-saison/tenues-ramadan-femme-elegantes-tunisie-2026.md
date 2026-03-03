@@ -45,9 +45,9 @@ La journée du Ramadan se divise en moments distincts qui appellent des tenues d
 
 La robe longue est la pièce reine du Ramadan. Elle couvre, elle flate, elle est confortable pour les longues heures assises à l'iftar, et elle peut être habillée ou déhabillée selon le contexte.
 
-La [Robe Pull à Bordure Contrastante à Bouton](https://lecintreprive.com/products/robe-pull-a-bordure-contrastante-a-bouton) représente cette élégance décontractée particulièrement adaptée aux journées de Ramadan. Ses boutons et sa bordure contrastante apportent ce détail de style qui distingue sans ostentation.
+La [Robe Pull à Bordure Contrastante à Bouton](https://www.lecintreprive.com/products/robe-pull-a-bordure-contrastante-a-bouton) représente cette élégance décontractée particulièrement adaptée aux journées de Ramadan. Ses boutons et sa bordure contrastante apportent ce détail de style qui distingue sans ostentation.
 
-Pour les soirées plus habillées, la [Robe Moulante avec Ceinture](https://lecintreprive.com/products/robe-moulante-avec-ceinture) offre une silhouette affirmée qui convient aux iftars et aux sorties nocturnes.
+Pour les soirées plus habillées, la [Robe Moulante avec Ceinture](https://www.lecintreprive.com/products/robe-moulante-avec-ceinture) offre une silhouette affirmée qui convient aux iftars et aux sorties nocturnes.
 
 ### Les hauts amples et les blouses
 
@@ -55,11 +55,11 @@ Pour les journées de travail pendant le Ramadan, les hauts amples sont préfér
 
 ### Le manteau ou la veste : la pièce d'autorité
 
-Les nuits de Ramadan peuvent être fraîches, surtout en début de saison. Un beau manteau posé sur une robe du soir est la façon la plus élégante de se protéger du froid sans sacrifier l'allure. Le [Manteau en Cachemire](https://lecintreprive.com/products/manteau-en-cachemire) est ici la pièce d'exception — celle qui élève toute tenue et qui dit, sans un mot, que vous avez du goût.
+Les nuits de Ramadan peuvent être fraîches, surtout en début de saison. Un beau manteau posé sur une robe du soir est la façon la plus élégante de se protéger du froid sans sacrifier l'allure. Le [Manteau en Cachemire](https://www.lecintreprive.com/products/manteau-en-cachemire) est ici la pièce d'exception — celle qui élève toute tenue et qui dit, sans un mot, que vous avez du goût.
 
 ### L'écharpe : accessoire de cœur du Ramadan
 
-L'écharpe occupe une place particulière dans la garde-robe du Ramadan. Elle peut couvrir les épaules lors des sorties en soirée, se porter en châle lors des nuits fraîches, ou simplement ajouter une touche de couleur à une tenue monochrome. L'[Écharpe Design Cheval](https://lecintreprive.com/products/echarpe-design-cheval-1) est une pièce d'exception à cet égard — son motif raffiné en fait un accessoire qui se remarque.
+L'écharpe occupe une place particulière dans la garde-robe du Ramadan. Elle peut couvrir les épaules lors des sorties en soirée, se porter en châle lors des nuits fraîches, ou simplement ajouter une touche de couleur à une tenue monochrome. L'[Écharpe Design Cheval](https://www.lecintreprive.com/products/echarpe-design-cheval-1) est une pièce d'exception à cet égard — son motif raffiné en fait un accessoire qui se remarque.
 
 ---
 
@@ -87,7 +87,7 @@ Pour les iftars habillés et les sorties nocturnes, l'élégance peut s'exprimer
 
 **Les pièces :** Jogging Le Cintre + haut structuré + sneakers blanches + écharpe légère.
 
-Le Ramadan a aussi ses moments de détente — les matinées lentes, les après-midis calmes. Le [Jogging Le Cintre](https://lecintreprive.com/products/jogging-le-cintre), pièce la plus récente de la collection, allie confort et élégance dans un ensemble qui peut se porter pour les moments de repos sans renoncer au soin.
+Le Ramadan a aussi ses moments de détente — les matinées lentes, les après-midis calmes. Le [Jogging Le Cintre](https://www.lecintreprive.com/products/jogging-le-cintre), pièce la plus récente de la collection, allie confort et élégance dans un ensemble qui peut se porter pour les moments de repos sans renoncer au soin.
 
 ---
 
@@ -95,15 +95,15 @@ Le Ramadan a aussi ses moments de détente — les matinées lentes, les après-
 
 ### Les bijoux
 
-Le Ramadan appelle des bijoux qui brillent sans ostentation. Un collier en chaîne serpent fin, un ensemble de colliers en perles, des boucles d'oreilles à strass pour les soirées. L'[Ensemble de Colliers en Perles](https://lecintreprive.com/products/ensemble-de-colliers-en-perles) est particulièrement adapté à la période : sa féminité douce et sa luminosité discrète correspondent parfaitement à l'esprit du mois sacré.
+Le Ramadan appelle des bijoux qui brillent sans ostentation. Un collier en chaîne serpent fin, un ensemble de colliers en perles, des boucles d'oreilles à strass pour les soirées. L'[Ensemble de Colliers en Perles](https://www.lecintreprive.com/products/ensemble-de-colliers-en-perles) est particulièrement adapté à la période : sa féminité douce et sa luminosité discrète correspondent parfaitement à l'esprit du mois sacré.
 
 ### Les bandeaux et accessoires cheveux
 
-Les bandeaux ornés sont particulièrement appréciés pendant le Ramadan pour les femmes qui portent le voile — ils permettent d'apporter une touche personnelle et élégante. Le [Bandeau en Perles et Strass](https://lecintreprive.com/products/bandeau-en-perles-et-strass) ou le [Serre-Tête avec Strass](https://lecintreprive.com/products/serre-tete-avec-strass) sont des choix lumineux et élégants.
+Les bandeaux ornés sont particulièrement appréciés pendant le Ramadan pour les femmes qui portent le voile — ils permettent d'apporter une touche personnelle et élégante. Le [Bandeau en Perles et Strass](https://www.lecintreprive.com/products/bandeau-en-perles-et-strass) ou le [Serre-Tête avec Strass](https://www.lecintreprive.com/products/serre-tete-avec-strass) sont des choix lumineux et élégants.
 
 ### Le sac du soir
 
-Pour les soirées, optez pour un sac qui capte la lumière — un sac pailleté, une pochette dorée. Le [Sac à Bandoulière Pailleté Coloré](https://lecintreprive.com/products/sac-a-bandouliere-paillete-colore) est fait pour les nuits de Ramadan : sa luminosité ajoute cette touche festive que la saison demande.
+Pour les soirées, optez pour un sac qui capte la lumière — un sac pailleté, une pochette dorée. Le [Sac à Bandoulière Pailleté Coloré](https://www.lecintreprive.com/products/sac-a-bandouliere-paillete-colore) est fait pour les nuits de Ramadan : sa luminosité ajoute cette touche festive que la saison demande.
 
 ---
 
@@ -142,4 +142,4 @@ Le Ramadan est, dans son essence, une invitation à l'essentiel. Et l'essentiel,
 Choisir peu, mais choisir avec intention. S'habiller avec soin, pas avec excès. Laisser votre élégance parler plus fort que votre dressing.
 
 **Entrez dans l'univers Le Cintre Privé.**  
-[Découvrir la collection →](https://lecintreprive.com)
+[Découvrir la collection →](https://www.lecintreprive.com)

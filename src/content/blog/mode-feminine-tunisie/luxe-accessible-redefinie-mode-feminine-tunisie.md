@@ -63,17 +63,17 @@ Cette prise de conscience alimente directement l'intérêt pour le luxe accessib
 
 Le Cintre Privé n'est pas une boutique généraliste. C'est une marque avec une vision — celle de la femme tunisienne élégante, moderne, affirmée. Chaque pièce de sa collection répond à cette vision.
 
-Le [Manteau en Cachemire](https://lecintreprive.com/products/manteau-en-cachemire) n'est pas là pour remplir un catalogue. Il est là parce qu'un manteau de cachemire est l'une de ces pièces qui transforment une silhouette et traversent les saisons. La [Chemise Col Claudine](https://lecintreprive.com/products/chemise-col-claudine) n'est pas là par hasard — le col claudine est un choix éditorial, une déclaration esthétique.
+Le [Manteau en Cachemire](https://www.lecintreprive.com/products/manteau-en-cachemire) n'est pas là pour remplir un catalogue. Il est là parce qu'un manteau de cachemire est l'une de ces pièces qui transforment une silhouette et traversent les saisons. La [Chemise Col Claudine](https://www.lecintreprive.com/products/chemise-col-claudine) n'est pas là par hasard — le col claudine est un choix éditorial, une déclaration esthétique.
 
 ### Des pièces qui parlent à la femme tunisienne contemporaine
 
-Le [Jogging Le Cintre](https://lecintreprive.com/products/jogging-le-cintre) est révélateur de cette approche. Un jogging, dans le monde du luxe accessible, peut sembler paradoxal. Mais la réalité du quotidien de la femme tunisienne comprend des moments de détente, de week-end, de légèreté. Ignorer ces moments serait ignorer une part de son identité.
+Le [Jogging Le Cintre](https://www.lecintreprive.com/products/jogging-le-cintre) est révélateur de cette approche. Un jogging, dans le monde du luxe accessible, peut sembler paradoxal. Mais la réalité du quotidien de la femme tunisienne comprend des moments de détente, de week-end, de légèreté. Ignorer ces moments serait ignorer une part de son identité.
 
 Un jogging de qualité, bien coupé, avec une attention portée aux finitions, est une pièce de luxe accessible au sens plein du terme.
 
 ### Les accessoires comme révélateurs du positionnement
 
-Les accessoires d'une marque révèlent son positionnement mieux que n'importe quel discours. Le [Sac à Bandoulière Polène](https://lecintreprive.com/products/sac-a-bandouliere-polene) — référence à une marque française de maroquinerie haut de gamme — et le [Sac à Main Coach](https://lecintreprive.com/products/sac-a-main-coach) parlent d'eux-mêmes : ils disent l'aspiration à la qualité, le goût pour les pièces qui ont de la valeur.
+Les accessoires d'une marque révèlent son positionnement mieux que n'importe quel discours. Le [Sac à Bandoulière Polène](https://www.lecintreprive.com/products/sac-a-bandouliere-polene) — référence à une marque française de maroquinerie haut de gamme — et le [Sac à Main Coach](https://www.lecintreprive.com/products/sac-a-main-coach) parlent d'eux-mêmes : ils disent l'aspiration à la qualité, le goût pour les pièces qui ont de la valeur.
 
 ---
 
@@ -87,11 +87,11 @@ Chaque marque de luxe accessible a ses pièces signature — celles qui cristall
 
 Le sac est le premier investissement mode dans la hiérarchie du luxe accessible. C'est la pièce qu'on voit en premier, qu'on porte tous les jours, et qui parle de votre rapport au style avant même que vous ouvriez la bouche.
 
-Le [Sac Carré à Liseré Contrastant à Pied-de-Poule à Rabat](https://lecintreprive.com/products/sac-carre-a-lisere-contrastant-a-pied-de-poule-a-rabat) illustre ce principe : son motif pied-de-poule, son liseré contrastant, son rabat — chaque détail est pensé pour communiquer une élégance travaillée.
+Le [Sac Carré à Liseré Contrastant à Pied-de-Poule à Rabat](https://www.lecintreprive.com/products/sac-carre-a-lisere-contrastant-a-pied-de-poule-a-rabat) illustre ce principe : son motif pied-de-poule, son liseré contrastant, son rabat — chaque détail est pensé pour communiquer une élégance travaillée.
 
 ### La pièce joaillerie
 
-La bijouterie fine accessible — colliers en acier inoxydable, perles, pierres semi-précieuses — est l'une des catégories les plus dynamiques du luxe accessible. Elle permet d'élever n'importe quelle tenue avec un investissement raisonnable. L'[Ensemble de Colliers en Perles](https://lecintreprive.com/products/ensemble-de-colliers-en-perles) ou le [Bracelet avec Strass en Acier Inoxydable](https://lecintreprive.com/products/bracelet-avec-strass-en-acier-inoxydable) en sont de bons exemples.
+La bijouterie fine accessible — colliers en acier inoxydable, perles, pierres semi-précieuses — est l'une des catégories les plus dynamiques du luxe accessible. Elle permet d'élever n'importe quelle tenue avec un investissement raisonnable. L'[Ensemble de Colliers en Perles](https://www.lecintreprive.com/products/ensemble-de-colliers-en-perles) ou le [Bracelet avec Strass en Acier Inoxydable](https://www.lecintreprive.com/products/bracelet-avec-strass-en-acier-inoxydable) en sont de bons exemples.
 
 ---
 
@@ -140,4 +140,4 @@ Choisir peu, mais choisir mieux. Investir dans ce qui dure. Affirmer son style s
 C'est la promesse du luxe accessible. Et c'est la promesse de Le Cintre Privé.
 
 **Entrez dans l'univers Le Cintre Privé.**  
-[Découvrir la collection →](https://lecintreprive.com)
+[Découvrir la collection →](https://www.lecintreprive.com)

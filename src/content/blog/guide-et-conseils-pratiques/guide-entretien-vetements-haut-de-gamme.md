@@ -49,17 +49,17 @@ Le nettoyage à sec est l'option la plus sûre pour les pièces de soie précieu
 
 ### Le cachemire : l'art de la douceur
 
-Le [Manteau en Cachemire](https://lecintreprive.com/products/manteau-en-cachemire) mérite une attention particulière. Le cachemire se lave à la main ou en machine sur programme laine/délicat à 30° maximum, avec un détergent spécial cachemire ou un shampoing doux. Ne jamais tordre, ne jamais suspendre — les fibres naturelles se déforment sous leur propre poids lorsqu'elles sont mouillées. Faites sécher à plat sur une serviette propre.
+Le [Manteau en Cachemire](https://www.lecintreprive.com/products/manteau-en-cachemire) mérite une attention particulière. Le cachemire se lave à la main ou en machine sur programme laine/délicat à 30° maximum, avec un détergent spécial cachemire ou un shampoing doux. Ne jamais tordre, ne jamais suspendre — les fibres naturelles se déforment sous leur propre poids lorsqu'elles sont mouillées. Faites sécher à plat sur une serviette propre.
 
 Pour éviter les boulochages, retournez le vêtement avant le lavage et utilisez une taie d'oreiller comme sac de lavage.
 
 ### Le coton et le lin : les plus simples
 
-Le coton et le lin sont les matières les plus résistantes au lavage. Lavez à 30° ou 40° selon l'étiquette. Pour les blancs — comme la [Chemise Col Claudine](https://lecintreprive.com/products/chemise-col-claudine) — utilisez un détergent sans azurants optiques pour préserver l'éclat du blanc à long terme. Le lin accepte d'être légèrement froissé — c'est sa nature et son charme.
+Le coton et le lin sont les matières les plus résistantes au lavage. Lavez à 30° ou 40° selon l'étiquette. Pour les blancs — comme la [Chemise Col Claudine](https://www.lecintreprive.com/products/chemise-col-claudine) — utilisez un détergent sans azurants optiques pour préserver l'éclat du blanc à long terme. Le lin accepte d'être légèrement froissé — c'est sa nature et son charme.
 
 ### Les broderies et les perles
 
-Les pièces ornées — comme le [Haut Brodé à Perles](https://lecintreprive.com/products/haut-brode-a-perles) — demandent un soin particulier. Retournez toujours la pièce avant de la laver. Utilisez le programme le plus délicat disponible, ou lavez à la main. Évitez l'essorage qui peut abîmer les broderies et faire sauter les perles. Faites sécher à plat.
+Les pièces ornées — comme le [Haut Brodé à Perles](https://www.lecintreprive.com/products/haut-brode-a-perles) — demandent un soin particulier. Retournez toujours la pièce avant de la laver. Utilisez le programme le plus délicat disponible, ou lavez à la main. Évitez l'essorage qui peut abîmer les broderies et faire sauter les perles. Faites sécher à plat.
 
 ### La laine et les tricots
 
@@ -111,9 +111,9 @@ Pour les pièces hors saison, nettoyez-les toujours avant de les ranger — les 
 
 ### Les bijoux et accessoires
 
-Les bijoux comme l'[Ensemble de Colliers en Perles](https://lecintreprive.com/products/ensemble-de-colliers-en-perles) ou les [Bracelets avec Strass](https://lecintreprive.com/products/bracelet-avec-strass) méritent aussi leur attention. Rangez-les séparément pour éviter les rayures (les métaux peuvent s'égratigner entre eux). Évitez l'humidité et les produits chimiques (parfums, crème, laque).
+Les bijoux comme l'[Ensemble de Colliers en Perles](https://www.lecintreprive.com/products/ensemble-de-colliers-en-perles) ou les [Bracelets avec Strass](https://www.lecintreprive.com/products/bracelet-avec-strass) méritent aussi leur attention. Rangez-les séparément pour éviter les rayures (les métaux peuvent s'égratigner entre eux). Évitez l'humidité et les produits chimiques (parfums, crème, laque).
 
-Les sacs en cuir ou en matière synthétique de qualité — comme le [Sac à Bandoulière Polène](https://lecintreprive.com/products/sac-a-bandouliere-polene) — se rangent bourrés de papier de soie pour conserver leur forme, et dans leur pochon de protection.
+Les sacs en cuir ou en matière synthétique de qualité — comme le [Sac à Bandoulière Polène](https://www.lecintreprive.com/products/sac-a-bandouliere-polene) — se rangent bourrés de papier de soie pour conserver leur forme, et dans leur pochon de protection.
 
 ---
 
@@ -145,7 +145,7 @@ Traitez la tache immédiatement et délicatement. Tamponnez (ne frottez jamais) 
 Lavez vos blancs séparément, à l'eau froide, avec un détergent spécial blanc. Évitez le chlore qui jaunit à terme. Faites sécher à l'ombre. Pour raviver un blanc qui a jauni, un bain dans de l'eau froide avec du percarbonate de sodium peut faire des miracles.
 
 **Peut-on laver un sac en paille ou en rotin ?**  
-Non. Les sacs en paille et en rotin, comme le [Sac à Main en Rotin](https://lecintreprive.com/products/sac-a-main-en-rotin), ne se lavent pas à l'eau. Nettoyez-les avec un chiffon légèrement humide pour les taches de surface, et rangez-les dans un endroit sec. L'humidité excessive peut faire gondoler ou fragiliser la structure.
+Non. Les sacs en paille et en rotin, comme le [Sac à Main en Rotin](https://www.lecintreprive.com/products/sac-a-main-en-rotin), ne se lavent pas à l'eau. Nettoyez-les avec un chiffon légèrement humide pour les taches de surface, et rangez-les dans un endroit sec. L'humidité excessive peut faire gondoler ou fragiliser la structure.
 
 ---
 
@@ -156,4 +156,4 @@ Prendre soin de ses vêtements n'est pas une contrainte — c'est le prolongemen
 Choisir peu, mais choisir mieux. Et prendre soin de ce qu'on possède.
 
 **Entrez dans l'univers Le Cintre Privé.**  
-[Découvrir la collection →](https://lecintreprive.com)
+[Découvrir la collection →](https://www.lecintreprive.com)

@@ -65,19 +65,19 @@ Ces images de tenues épurées, élégantes, sans effort apparent mais profondé
 
 ### La chemise structurée : la base incontournable
 
-Dans une garde-robe minimaliste, la chemise structurée est fondamentale. Elle s'associe à tout, se porte de mille façons, et élève n'importe quelle tenue. La [Chemise Col Claudine](https://lecintreprive.com/products/chemise-col-claudine) est l'exemple parfait de cette pièce minimaliste avec caractère — sa coupe nette, son col iconique font tout le travail.
+Dans une garde-robe minimaliste, la chemise structurée est fondamentale. Elle s'associe à tout, se porte de mille façons, et élève n'importe quelle tenue. La [Chemise Col Claudine](https://www.lecintreprive.com/products/chemise-col-claudine) est l'exemple parfait de cette pièce minimaliste avec caractère — sa coupe nette, son col iconique font tout le travail.
 
 ### La robe monochrome : une tenue en une pièce
 
-La robe monochrome est l'essence du minimalisme vestimentaire. Une pièce, une couleur, une silhouette. Pas besoin d'associer, de chercher, de combiner. La [Robe Ceinturée](https://lecintreprive.com/products/robe-ceinturee) dans une teinte unie illustre ce principe : la ceinture structure, la couleur unie affirme, la coupe suffit.
+La robe monochrome est l'essence du minimalisme vestimentaire. Une pièce, une couleur, une silhouette. Pas besoin d'associer, de chercher, de combiner. La [Robe Ceinturée](https://www.lecintreprive.com/products/robe-ceinturee) dans une teinte unie illustre ce principe : la ceinture structure, la couleur unie affirme, la coupe suffit.
 
 ### Le manteau : l'investissement minimaliste par excellence
 
-Dans la philosophie minimaliste, certains investissements ont plus de valeur que d'autres. Le manteau en est un. Porté sur n'importe quelle tenue, il unifie, il élève, il complète. Le [Manteau en Cachemire](https://lecintreprive.com/products/manteau-en-cachemire) est l'investissement minimaliste par excellence — une pièce qui traverse les années et les tendances sans jamais perdre sa pertinence.
+Dans la philosophie minimaliste, certains investissements ont plus de valeur que d'autres. Le manteau en est un. Porté sur n'importe quelle tenue, il unifie, il élève, il complète. Le [Manteau en Cachemire](https://www.lecintreprive.com/products/manteau-en-cachemire) est l'investissement minimaliste par excellence — une pièce qui traverse les années et les tendances sans jamais perdre sa pertinence.
 
 ### Le jogging de qualité : le minimalisme du quotidien
 
-Le minimalisme ne s'arrête pas à la tenue habillée. Il s'étend aux moments de détente, aux week-ends, aux journées à la maison. Le [Jogging Le Cintre](https://lecintreprive.com/products/jogging-le-cintre) apporte cette dimension : une pièce de confort qui ne renonce pas à la qualité, qui dit le soin porté à soi-même même dans les moments de légèreté.
+Le minimalisme ne s'arrête pas à la tenue habillée. Il s'étend aux moments de détente, aux week-ends, aux journées à la maison. Le [Jogging Le Cintre](https://www.lecintreprive.com/products/jogging-le-cintre) apporte cette dimension : une pièce de confort qui ne renonce pas à la qualité, qui dit le soin porté à soi-même même dans les moments de légèreté.
 
 ---
 
@@ -89,9 +89,9 @@ Dans une garde-robe minimaliste, chaque accessoire est choisi avec intention. Il
 
 ### La chaîne fine : le bijou minimaliste
 
-La chaîne fine est l'accessoire bijou par excellence du style minimaliste. Elle ajoute sans alourdir, elle complète sans distraire. Le [Collier à Chaîne Minimaliste](https://lecintreprive.com/products/collier-a-chaine-minimaliste) est là pour cette raison — sa finesse et sa discrétion en font un compagnon fidèle de toute tenue.
+La chaîne fine est l'accessoire bijou par excellence du style minimaliste. Elle ajoute sans alourdir, elle complète sans distraire. Le [Collier à Chaîne Minimaliste](https://www.lecintreprive.com/products/collier-a-chaine-minimaliste) est là pour cette raison — sa finesse et sa discrétion en font un compagnon fidèle de toute tenue.
 
-Pour un peu plus de présence, le [Collier en Chaîne Serpent](https://lecintreprive.com/products/collier-en-chaine-serpent) joue sur la même corde minimaliste tout en apportant une texture intéressante.
+Pour un peu plus de présence, le [Collier en Chaîne Serpent](https://www.lecintreprive.com/products/collier-en-chaine-serpent) joue sur la même corde minimaliste tout en apportant une texture intéressante.
 
 ### Le sac structuré : l'investissement central
 
@@ -99,7 +99,7 @@ Le sac est l'accessoire le plus visible et le plus utilisé de la garde-robe. Da
 
 ### La montre sobre : l'accessoire qui dit tout
 
-La montre sobre est l'accessoire minimaliste par excellence. Elle est fonctionnelle et esthétique à la fois. La [Montre Carrée](https://lecintreprive.com/products/montre-carree) répond à cette définition — son cadran carré apporte une géométrie nette qui s'inscrit parfaitement dans une esthétique minimaliste.
+La montre sobre est l'accessoire minimaliste par excellence. Elle est fonctionnelle et esthétique à la fois. La [Montre Carrée](https://www.lecintreprive.com/products/montre-carree) répond à cette définition — son cadran carré apporte une géométrie nette qui s'inscrit parfaitement dans une esthétique minimaliste.
 
 ---
 
@@ -146,4 +146,4 @@ Le minimalisme chic n'est pas une tendance passagère. C'est une réponse à une
 La simplicité est une force. Et à Tunis comme ailleurs, de plus en plus de femmes choisissent cette force-là.
 
 **Entrez dans l'univers Le Cintre Privé.**  
-[Découvrir la collection →](https://lecintreprive.com)
+[Découvrir la collection →](https://www.lecintreprive.com)

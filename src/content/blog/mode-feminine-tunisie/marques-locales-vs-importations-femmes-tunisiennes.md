@@ -59,17 +59,17 @@ Les marques importées disponibles physiquement en Tunisie sont limitées. Le re
 
 La première génération de marques tunisiennes de mode contemporaine a largement démontré que la qualité n'est pas l'apanage de l'étranger. Des matières soigneusement sélectionnées, des coupes travaillées, des finitions attentives — ces standards sont aujourd'hui atteints par plusieurs marques locales.
 
-Le [Manteau en Cachemire](https://lecintreprive.com/products/manteau-en-cachemire) de Le Cintre Privé en est un exemple : une pièce dont la matière et la coupe rivalisent avec des équivalents importés vendus à des prix nettement supérieurs.
+Le [Manteau en Cachemire](https://www.lecintreprive.com/products/manteau-en-cachemire) de Le Cintre Privé en est un exemple : une pièce dont la matière et la coupe rivalisent avec des équivalents importés vendus à des prix nettement supérieurs.
 
 ### L'esthétique adaptée
 
 Les marques tunisiennes conçoivent pour le marché tunisien. Cela signifie des couleurs qui dialoguent avec la lumière méditerranéenne, des coupes qui tiennent compte des préférences locales, et une proposition stylistique qui comprend les codes culturels de la femme tunisienne.
 
-La [Chemise Col Claudine](https://lecintreprive.com/products/chemise-col-claudine), la [Robe Trapèze Ceinturée](https://lecintreprive.com/products/robe-trapeze-ceinturee), ou encore le [Haut Brodé à Perles](https://lecintreprive.com/products/haut-brode-a-perles) sont des pièces qui répondent à des désirs stylistiques réels de la femme tunisienne — ni trop conservatrices, ni trop décalées par rapport au contexte.
+La [Chemise Col Claudine](https://www.lecintreprive.com/products/chemise-col-claudine), la [Robe Trapèze Ceinturée](https://www.lecintreprive.com/products/robe-trapeze-ceinturee), ou encore le [Haut Brodé à Perles](https://www.lecintreprive.com/products/haut-brode-a-perles) sont des pièces qui répondent à des désirs stylistiques réels de la femme tunisienne — ni trop conservatrices, ni trop décalées par rapport au contexte.
 
 ### L'accessoire local : un atout sous-estimé
 
-La bijouterie et les accessoires tunisiens, en particulier, sont souvent sous-estimés. Pourtant, certaines pièces — comme les [Boucles d'Oreilles à Strass](https://lecintreprive.com/products/boucles-doreilles-a-strass), les [Bracelets Tressés](https://lecintreprive.com/products/bracelet-tresse) ou les [Sacs en Paille](https://lecintreprive.com/products/sac-de-paille) — ont une authenticité et un caractère qui manquent souvent aux équivalents importés.
+La bijouterie et les accessoires tunisiens, en particulier, sont souvent sous-estimés. Pourtant, certaines pièces — comme les [Boucles d'Oreilles à Strass](https://www.lecintreprive.com/products/boucles-doreilles-a-strass), les [Bracelets Tressés](https://www.lecintreprive.com/products/bracelet-tresse) ou les [Sacs en Paille](https://www.lecintreprive.com/products/sac-de-paille) — ont une authenticité et un caractère qui manquent souvent aux équivalents importés.
 
 ---
 
@@ -130,4 +130,4 @@ Le nouveau choix des femmes tunisiennes n'est pas entre local et importé. C'est
 Dans ce choix-là, les meilleures marques tunisiennes ont toutes leurs chances. Et elles les saisissent.
 
 **Entrez dans l'univers Le Cintre Privé.**  
-[Découvrir la collection →](https://lecintreprive.com)
+[Découvrir la collection →](https://www.lecintreprive.com)

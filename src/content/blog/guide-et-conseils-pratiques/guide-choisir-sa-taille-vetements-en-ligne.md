@@ -83,19 +83,19 @@ Lisez attentivement la description de la coupe dans la fiche produit. Des termes
 
 ### Les chemises et blouses
 
-Pour la [Chemise Col Claudine](https://lecintreprive.com/products/chemise-col-claudine) ou n'importe quelle chemise, la mesure de référence est le tour de poitrine. Vérifiez aussi les informations sur la largeur des épaules si elles sont disponibles — une épaule trop large ou trop serrée change tout dans le tombé d'une chemise.
+Pour la [Chemise Col Claudine](https://www.lecintreprive.com/products/chemise-col-claudine) ou n'importe quelle chemise, la mesure de référence est le tour de poitrine. Vérifiez aussi les informations sur la largeur des épaules si elles sont disponibles — une épaule trop large ou trop serrée change tout dans le tombé d'une chemise.
 
 ### Les robes
 
-Pour les robes comme la [Robe Trapèze Ceinturée](https://lecintreprive.com/products/robe-trapeze-ceinturee) ou la [Robe Moulante avec Ceinture](https://lecintreprive.com/products/robe-moulante-avec-ceinture), vérifiez les trois mesures (poitrine, taille, hanches) et identifiez celle qui est la plus contraignante pour vous. Si votre tour de hanches vous amène à une taille supérieure à votre tour de poitrine, choisissez la plus grande et, si nécessaire, faites ajuster la taille par un couturier.
+Pour les robes comme la [Robe Trapèze Ceinturée](https://www.lecintreprive.com/products/robe-trapeze-ceinturee) ou la [Robe Moulante avec Ceinture](https://www.lecintreprive.com/products/robe-moulante-avec-ceinture), vérifiez les trois mesures (poitrine, taille, hanches) et identifiez celle qui est la plus contraignante pour vous. Si votre tour de hanches vous amène à une taille supérieure à votre tour de poitrine, choisissez la plus grande et, si nécessaire, faites ajuster la taille par un couturier.
 
 ### Les manteaux et vestes
 
-Pour le [Manteau en Cachemire](https://lecintreprive.com/products/manteau-en-cachemire) ou tout manteau, pensez à la superposition. Vous porterez des couches dessous — rajoutez quelques centimètres à vos mesures habituelles pour le confort de port.
+Pour le [Manteau en Cachemire](https://www.lecintreprive.com/products/manteau-en-cachemire) ou tout manteau, pensez à la superposition. Vous porterez des couches dessous — rajoutez quelques centimètres à vos mesures habituelles pour le confort de port.
 
 ### Les hauts brodés et ornés
 
-Pour les pièces comme le [Haut Brodé à Perles](https://lecintreprive.com/products/haut-brode-a-perles), la coupe est souvent plus ajustée pour mettre en valeur la broderie. Si vous hésitez, prenez une taille au-dessus de votre mesure habituelle pour plus de confort.
+Pour les pièces comme le [Haut Brodé à Perles](https://www.lecintreprive.com/products/haut-brode-a-perles), la coupe est souvent plus ajustée pour mettre en valeur la broderie. Si vous hésitez, prenez une taille au-dessus de votre mesure habituelle pour plus de confort.
 
 ---
 
@@ -152,4 +152,4 @@ Choisir sa taille en ligne n'est pas une science exacte — mais c'est une comp�
 Et quand une pièce vous va parfaitement — la bonne taille, la bonne coupe, la bonne matière — vous comprenez pourquoi cela valait la peine d'être attentif.
 
 **Entrez dans l'univers Le Cintre Privé.**  
-[Découvrir la collection →](https://lecintreprive.com)
+[Découvrir la collection →](https://www.lecintreprive.com)

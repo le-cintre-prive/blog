@@ -39,21 +39,21 @@ La palette de cette saison oscille entre deux univers : d'un côté les tons de 
 
 ### La Robe Fleurie : l'Emblème de l'Été
 
-La robe à imprimé floral est la pièce signature de chaque printemps-été. Elle est l'antithèse de l'austérité hivernale — vivante, légère, optimiste. La [Robe à Imprimé Floral à Épaules Dénudées](https://lecintreprive.com/products/robe-a-imprime-floral-a-epaules-denudees) incarne parfaitement cet esprit : ses épaules dénudées captent la lumière estivale, son imprimé floral célèbre la saison.
+La robe à imprimé floral est la pièce signature de chaque printemps-été. Elle est l'antithèse de l'austérité hivernale — vivante, légère, optimiste. La [Robe à Imprimé Floral à Épaules Dénudées](https://www.lecintreprive.com/products/robe-a-imprime-floral-a-epaules-denudees) incarne parfaitement cet esprit : ses épaules dénudées captent la lumière estivale, son imprimé floral célèbre la saison.
 
 Portée avec des sandales plates et un sac de paille, elle devient la tenue d'une journée de marché ou d'une promenade en medina. Associée à des sandales à talon et un sac structuré, elle convient à un dîner ou une sortie culturelle.
 
 ### La Blouse Légère : Entre Féminité et Liberté
 
-La blouse à volants et à nœuds est l'une des pièces les plus flatteuses de la saison. Ses volants créent du volume là où il est bienvenu, et ses nœuds apportent un détail romantique qui adoucit la silhouette. La [Blouse à Volants à Nœuds](https://lecintreprive.com/products/blouse-a-volants-a-noeuds) se porte aussi bien rentrée dans une jupe midi qu'hors d'un pantalon fluide.
+La blouse à volants et à nœuds est l'une des pièces les plus flatteuses de la saison. Ses volants créent du volume là où il est bienvenu, et ses nœuds apportent un détail romantique qui adoucit la silhouette. La [Blouse à Volants à Nœuds](https://www.lecintreprive.com/products/blouse-a-volants-a-noeuds) se porte aussi bien rentrée dans une jupe midi qu'hors d'un pantalon fluide.
 
 ### La Jupe Trapèze ou Midi : La Polyvalente de la Saison
 
-La jupe midi reste la longueur reine pour les températures printanières tunisiennes. Elle protège du vent de mars et reste fraîche en avril-mai. La [Robe Trapèze Ceinturée](https://lecintreprive.com/products/robe-trapeze-ceinturee) joue sur ce principe avec une robe — mais l'esprit est le même : une silhouette qui couvre sans alourdir.
+La jupe midi reste la longueur reine pour les températures printanières tunisiennes. Elle protège du vent de mars et reste fraîche en avril-mai. La [Robe Trapèze Ceinturée](https://www.lecintreprive.com/products/robe-trapeze-ceinturee) joue sur ce principe avec une robe — mais l'esprit est le même : une silhouette qui couvre sans alourdir.
 
 ### Le Haut Brodé : La Pièce d'Exception
 
-Chaque saison mérite une pièce d'exception — celle qui élève une tenue du quotidien à quelque chose de mémorable. Le [Haut Brodé à Perles](https://lecintreprive.com/products/haut-brode-a-perles) est cette pièce pour le printemps-été 2026. Sa broderie artisanale capte la lumière, ses perles apportent une féminité affirmée qui ne demande rien d'autre pour exister.
+Chaque saison mérite une pièce d'exception — celle qui élève une tenue du quotidien à quelque chose de mémorable. Le [Haut Brodé à Perles](https://www.lecintreprive.com/products/haut-brode-a-perles) est cette pièce pour le printemps-été 2026. Sa broderie artisanale capte la lumière, ses perles apportent une féminité affirmée qui ne demande rien d'autre pour exister.
 
 Portez-le avec un pantalon large blanc et des sandales dorées. La tenue est complète.
 
@@ -63,19 +63,19 @@ Portez-le avec un pantalon large blanc et des sandales dorées. La tenue est com
 
 ### Le Sac en Paille : L'Intemporel Estival
 
-Le sac en paille revient chaque été et chaque été il est juste. Sa texture naturelle dialogue avec les matières légères de la saison et ses couleurs dorées répondent aux tons de la lumière tunisienne. Le [Sac en Paille Tissée Légère](https://lecintreprive.com/products/sac-en-paille-tissee-legere) ou le [Sac à Main en Rotin](https://lecintreprive.com/products/sac-a-main-en-rotin) sont deux interprétations contemporaines de ce classique estival.
+Le sac en paille revient chaque été et chaque été il est juste. Sa texture naturelle dialogue avec les matières légères de la saison et ses couleurs dorées répondent aux tons de la lumière tunisienne. Le [Sac en Paille Tissée Légère](https://www.lecintreprive.com/products/sac-en-paille-tissee-legere) ou le [Sac à Main en Rotin](https://www.lecintreprive.com/products/sac-a-main-en-rotin) sont deux interprétations contemporaines de ce classique estival.
 
 ### Le Chapeau de Soleil : Élégance et Protection
 
-Le chapeau de soleil est l'accessoire qui réconcilie l'utile et le beau. Il protège et il affirme. Le [Chapeau de Paille avec Ruban](https://lecintreprive.com/products/chapeau-de-paille-avec-ruban) ajoute ce détail qui fait la différence entre un chapeau fonctionnel et un accessoire de style à part entière.
+Le chapeau de soleil est l'accessoire qui réconcilie l'utile et le beau. Il protège et il affirme. Le [Chapeau de Paille avec Ruban](https://www.lecintreprive.com/products/chapeau-de-paille-avec-ruban) ajoute ce détail qui fait la différence entre un chapeau fonctionnel et un accessoire de style à part entière.
 
 ### Les Bijoux de Saison
 
-Le printemps-été appelle des bijoux qui évoquent la mer, la nature, la légèreté. L'[Ensemble de Colliers en Perles](https://lecintreprive.com/products/ensemble-de-colliers-en-perles) répond à cette demande avec une sophistication douce. Le [Collier Étoile de Mer](https://lecintreprive.com/products/collier-etoile-de-mer) et les [Pendants d'Oreilles à Franges](https://lecintreprive.com/products/pendants-doreilles-a-franges) complètent un look estival avec le juste niveau de présence.
+Le printemps-été appelle des bijoux qui évoquent la mer, la nature, la légèreté. L'[Ensemble de Colliers en Perles](https://www.lecintreprive.com/products/ensemble-de-colliers-en-perles) répond à cette demande avec une sophistication douce. Le [Collier Étoile de Mer](https://www.lecintreprive.com/products/collier-etoile-de-mer) et les [Pendants d'Oreilles à Franges](https://www.lecintreprive.com/products/pendants-doreilles-a-franges) complètent un look estival avec le juste niveau de présence.
 
 ### Le Bandeau : L'Accessoire Cheveux de la Saison
 
-Le bandeau revient en force ce printemps-été. Le [Bandeau Décoré Floral](https://lecintreprive.com/products/bandeau-decore-floral) est la version saison chaude par excellence : il maintient les cheveux avec élégance tout en ajoutant un détail fleuri qui dialogue avec les imprimés de la saison.
+Le bandeau revient en force ce printemps-été. Le [Bandeau Décoré Floral](https://www.lecintreprive.com/products/bandeau-decore-floral) est la version saison chaude par excellence : il maintient les cheveux avec élégance tout en ajoutant un détail fleuri qui dialogue avec les imprimés de la saison.
 
 ---
 
@@ -124,4 +124,4 @@ Le printemps-été 2026 est une invitation à s'alléger — de l'hiver, des cou
 La légèreté n'est pas un renoncement. C'est une forme d'élégance particulièrement raffinée.
 
 **Entrez dans l'univers Le Cintre Privé.**  
-[Découvrir la collection →](https://lecintreprive.com)
+[Découvrir la collection →](https://www.lecintreprive.com)

@@ -39,9 +39,9 @@ Une bonne tenue de bureau repose sur trois piliers : la coupe (vêtements bien a
 
 ### La chemise ou le haut structuré
 
-Le haut est ce qui cadre votre visage et donne le ton à la tenue. Privilégiez des coupes nettes : col claudine, col V professionnel, ou haut à manches structurées. La [Chemise Col Claudine](https://lecintreprive.com/products/chemise-col-claudine) est ici un choix exemplaire : son col iconique communique une rigueur élégante qui convient parfaitement au bureau.
+Le haut est ce qui cadre votre visage et donne le ton à la tenue. Privilégiez des coupes nettes : col claudine, col V professionnel, ou haut à manches structurées. La [Chemise Col Claudine](https://www.lecintreprive.com/products/chemise-col-claudine) est ici un choix exemplaire : son col iconique communique une rigueur élégante qui convient parfaitement au bureau.
 
-Pour les journées qui demandent un peu plus d'éclat — une présentation, un rendez-vous client — le [Haut Brodé à Perles](https://lecintreprive.com/products/haut-brode-a-perles) élève la tenue sans la rendre inadaptée au contexte professionnel.
+Pour les journées qui demandent un peu plus d'éclat — une présentation, un rendez-vous client — le [Haut Brodé à Perles](https://www.lecintreprive.com/products/haut-brode-a-perles) élève la tenue sans la rendre inadaptée au contexte professionnel.
 
 ### La jupe midi ou le pantalon taille haute
 
@@ -51,11 +51,11 @@ Le pantalon taille haute droit reste également une valeur sûre. Choisissez-le 
 
 ### La robe de bureau
 
-Une bonne robe de bureau est l'investissement le plus rentable de votre garde-robe professionnelle. Elle constitue une tenue à elle seule — pas besoin de chercher des associations. La [Robe Trapèze Ceinturée](https://lecintreprive.com/products/robe-trapeze-ceinturee) illustre parfaitement ce principe : sa coupe structure la silhouette, la ceinture marque la taille, le tombé reste professionnel.
+Une bonne robe de bureau est l'investissement le plus rentable de votre garde-robe professionnelle. Elle constitue une tenue à elle seule — pas besoin de chercher des associations. La [Robe Trapèze Ceinturée](https://www.lecintreprive.com/products/robe-trapeze-ceinturee) illustre parfaitement ce principe : sa coupe structure la silhouette, la ceinture marque la taille, le tombé reste professionnel.
 
 ### La veste ou le manteau d'autorité
 
-Certaines pièces communiquent immédiatement l'autorité et la maîtrise. Une veste bien coupée est l'une d'entre elles. Un manteau de qualité en est une autre. Le [Manteau en Cachemire](https://lecintreprive.com/products/manteau-en-cachemire) appartient à cette catégorie de pièces qui changent la perception qu'on a de vous dès que vous entrez dans une pièce.
+Certaines pièces communiquent immédiatement l'autorité et la maîtrise. Une veste bien coupée est l'une d'entre elles. Un manteau de qualité en est une autre. Le [Manteau en Cachemire](https://www.lecintreprive.com/products/manteau-en-cachemire) appartient à cette catégorie de pièces qui changent la perception qu'on a de vous dès que vous entrez dans une pièce.
 
 ---
 
@@ -117,7 +117,7 @@ Votre sac de bureau est l'accessoire le plus visible de votre tenue professionne
 
 ### La montre
 
-La montre reste un marqueur de professionnalisme et de ponctualité. Une montre sobre, à cadran clair, communique immédiatement soin et sérieux. La [Montre Carrée](https://lecintreprive.com/products/montre-carree) apporte cette touche d'élégance minimaliste qui sied parfaitement au registre professionnel.
+La montre reste un marqueur de professionnalisme et de ponctualité. Une montre sobre, à cadran clair, communique immédiatement soin et sérieux. La [Montre Carrée](https://www.lecintreprive.com/products/montre-carree) apporte cette touche d'élégance minimaliste qui sied parfaitement au registre professionnel.
 
 ### Les bijoux
 
@@ -148,4 +148,4 @@ S'habiller pour le bureau avec élégance n'est pas une question de budget ou de
 La simplicité est une force. Et au bureau, cette force s'appelle présence.
 
 **Entrez dans l'univers Le Cintre Privé.**  
-[Découvrir la collection →](https://lecintreprive.com)
+[Découvrir la collection →](https://www.lecintreprive.com)
