@@ -2,6 +2,7 @@
 import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 import instagram from '../assets/instagram-logo-facebook-2-svgrepo-com.svg';
+import logo from '../assets/logo.webp';
 import { Image } from 'astro:assets';
 ---
 
@@ -9,8 +10,7 @@ import { Image } from 'astro:assets';
 	<nav class="navbar">
 		<div class="brand">
 			<a href="/" class="brand-link">
-				<span class="brand-main">Le Cintre</span>
-				<span class="brand-accent">Privé</span>
+				<Image src={logo} alt="Le Cintre Privé" width="200" height="60" class="logo" />
 			</a>
 			<p class="tagline">Style · Élégance · Sophistication</p>
 		</div>
@@ -61,32 +61,27 @@ import { Image } from 'astro:assets';
 	}
 
 	.brand-link {
-		font-family: 'Playfair Display', serif;
-		font-size: 1.75rem;
-		font-weight: 700;
-		text-decoration: none;
-		color: var(--cognac-brown);
 		display: flex;
-		align-items: baseline;
-		gap: 0.25rem;
+		align-items: center;
 		border: none !important;
 		transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 	}
 
 	.brand-link:hover {
-		color: var(--dusty-rose);
 		transform: translateY(-2px);
 		border: none !important;
 	}
 
-	.brand-main {
-		font-weight: 700;
+	.logo {
+		height: auto;
+		max-height: 50px;
+		width: auto;
+		filter: drop-shadow(2px 2px 4px rgba(139, 87, 42, 0.1));
+		transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 	}
 
-	.brand-accent {
-		font-style: italic;
-		font-weight: 400;
-		color: var(--dusty-rose);
+	.brand-link:hover .logo {
+		filter: drop-shadow(2px 4px 8px rgba(139, 87, 42, 0.2));
 	}
 
 	.tagline {
@@ -194,8 +189,8 @@ import { Image } from 'astro:assets';
 			display: none;
 		}
 
-		.brand-link {
-			font-size: 1.5rem;
+		.logo {
+			max-height: 40px;
 		}
 
 		.tagline {
@@ -212,8 +207,8 @@ import { Image } from 'astro:assets';
 			padding: 0.75rem;
 		}
 
-		.brand-link {
-			font-size: 1.25rem;
+		.logo {
+			max-height: 35px;
 		}
 
 		.tagline {
